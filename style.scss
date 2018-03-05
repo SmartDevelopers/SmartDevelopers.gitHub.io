@@ -32,13 +32,13 @@ body {
 }
 
 table, th, td {
-	border: 3px solid black
+	border: 3px lighter black
 	;
 }
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
   color: $darkerGray;
-  font-weight: bold;
+  font-weight: italics;
 
   line-height: 1.5;
   margin: 1em 0 15px;
